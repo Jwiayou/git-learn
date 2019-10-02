@@ -4,6 +4,11 @@ function HelloWorld() {
 	)	
 }
 
+const list = Array(5).fill("jw");
+list.forEach(item => {
+	console.log(item)
+})
+
 console.log("jw")
 
 export default HelloWorld;
