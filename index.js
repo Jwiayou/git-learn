@@ -4,6 +4,8 @@ function HelloWorld() {
 	)	
 }
 
+console.log("jw")
+
 export default HelloWorld;
 
 if (loveMe) {
