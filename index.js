@@ -18,3 +18,6 @@ if (loveMe) {
 } else {
 	console.log(get out)
 }
+
+
+consol.log("jw")
