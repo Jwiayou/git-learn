@@ -1,4 +1,5 @@
-unction Home() {
+// author: jiangwei
+function Home() {
 	return <div>Home</div>
 }
 
