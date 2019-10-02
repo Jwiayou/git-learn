@@ -1,3 +1,4 @@
+add empty object
 function HelloWorld() {
 	return(
 		<div>Hello World</div>
